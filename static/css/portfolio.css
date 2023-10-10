@@ -1,0 +1,122 @@
+
+.navbar-brand{
+font-size:20px;
+font-weight:bold;
+}
+.bg_light_grey{
+    background-color: #cbc4c412!important;
+   margin-top:200px;
+}
+.mt-20{
+margin-top:120px;
+
+}
+.ma-25{
+margin:25px;
+}
+.mt-100{
+margin-top:100px;
+
+}
+.mt-150{
+margin-top:150px;
+
+}
+.mb-150{
+margin-bottom:150px;
+
+}
+.line_height_35{
+
+line-height:35px;
+}
+.text_hello{
+font-size:50px;
+}
+
+#name_box{
+max-width:500px;
+}
+
+
+      a:hover {
+  color: #7843e9 !important;
+}
+.nav-item{
+padding-left:30px;
+padding-right:30px;
+font-size:20px;
+font-weight:bold;
+}
+
+.navbar-light .navbar-nav .nav-link{
+color:black;
+
+}
+
+
+
+
+float_right{
+float:right !important;
+}
+nav a #navbar-toggler-icon{
+color:black;
+}
+.hr_about_me{
+width:35%; height:4px; background-color: #7843e9;border-radius: 25px;
+}
+
+
+.skills_ul li {
+  float: left;
+  padding:5px;
+  list-style:none;
+}
+
+.skills_ul li a {
+font-weight: 500;
+    font-size: 20px;
+    background-color: #00000024;
+    padding: 20px;
+    color: #666;
+    text-align:center;
+     display: block;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0px;
+}
+.br_1{
+border:1px solid black;
+}
+.font-20 {
+  font-size: 20px !important; }
+.pa-25{
+ padding:25px;
+
+}
+
+ .project_details{
+ margin:25px;
+ padding:25px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  transition: box-shadow 0.3s ease-in-out;
+ }
+
+ .contact_details{
+ margin:25px;
+ padding:25px;
+ }
+.list-group-item {
+    border: 3px solid #7843e9;
+}
+
+
+
+.project_details:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+}
+#projects p{
+line-height:25px;
+
+}
